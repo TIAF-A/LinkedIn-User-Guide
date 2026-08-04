@@ -1,2 +1,10 @@
 # LinkedIn-User-Guide
-Manual Guide For Accessing a LinkedIn   
+This repository contains a user Guide For Accessing a LinkedIn
+
+## Contents
+- Introduction
+- Prerequisites
+- Sign-In Steps
+- Troubleshooting
+
+For the complete guide, please visit the Wiki. 
