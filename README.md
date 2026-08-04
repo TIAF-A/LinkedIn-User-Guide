@@ -1,10 +1,9 @@
 # LinkedIn-User-Guide
-This repository contains a user Guide For Accessing a LinkedIn
+This repository contains a user Guide For creating a new LinkedIn account using the LinkedIn mobile application. 
 
 ## Contents
-- Introduction
-- Prerequisites
-- Sign-In Steps
+- Home
+- Create a LinkedIn Account
 - Troubleshooting
 
-For the complete guide, please visit the Wiki. 
+For the complete documentation, please visit the Wiki. 
